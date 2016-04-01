@@ -1,0 +1,96 @@
+Vigna	begin	begin	1	1	.	.	.	.
+Vigna	GenBank	CDS	1	1584	1584	+	.	Gene cox1 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	3044	3124	81	+	.	Gene nad1 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	3125	4580	1456	+	.	Gene nad1 ; Note number 1 ; COLOR green ; type intron
+Vigna	GenBank	CDS	4581	4772	192	+	.	Gene nad1 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	6309	6382	74	+	.	Gene rps3 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	6383	7767	1385	+	.	Gene rps3 ; COLOR green ; type intron
+Vigna	GenBank	CDS	7768	9385	1618	+	.	Gene rps3 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	9273	9791	519	+	.	Gene rpl16 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	21332	22054	723	+	.	Gene mttB ; COLOR blue ; type exon
+Vigna	GenBank	CDS	32693	33471	779	+	.	Gene ccmFc ; COLOR blue ; type exon
+Vigna	GenBank	CDS	33472	37556	4085	+	.	Gene ccmFc ; COLOR green ; type intron
+Vigna	GenBank	CDS	37557	38106	550	+	.	Gene ccmFc ; COLOR blue ; type exon
+Vigna	GenBank	cplast	40272	40870	599	+	.	Gene chloroplast-derived DNA ; COLOR green4
+Vigna	GenBank	CDS	59016	59088	73	-	.	Gene trnM-cp ; COLOR red ; type exon
+Vigna	GenBank	CDS	59974	60045	72	-	.	Gene trnE-TTC ; COLOR red ; type exon
+Vigna	GenBank	CDS	62124	62382	259	-	.	Gene nad1 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	62383	65530	3148	-	.	Gene nad1 ; Note number 2 ; COLOR green ; type intron
+Vigna	GenBank	CDS	62875	64884	2010	-	.	Gene matR ; COLOR blue ; type exon
+Vigna	GenBank	CDS	65531	65589	59	-	.	Gene nad1 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	68936	69017	82	+	.	Gene trnI-CAT ; COLOR red ; type exon
+Vigna	GenBank	cplast	81289	82475	1187	+	.	Gene chloroplast-derived DNA ; COLOR green4
+Vigna	GenBank	misc_feature	82009	82082	74	-	.	Gene trnD-GTC ; Note intact chloroplast-like trnD embedded within larger region of chloroplast DNA, possibly functional ; COLOR black
+Vigna	GenBank	CDS	84047	84507	461	+	.	Gene nad4 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	84508	85918	1411	+	.	Gene nad4 ; Note number 1 ; COLOR green ; type intron
+Vigna	GenBank	CDS	85919	86433	515	+	.	Gene nad4 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	86434	89671	3238	+	.	Gene nad4 ; Note number 2 ; COLOR green ; type intron
+Vigna	GenBank	CDS	89672	90094	423	+	.	Gene nad4 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	90095	92636	2542	+	.	Gene nad4 ; Note number 3 ; COLOR green ; type intron
+Vigna	GenBank	CDS	92637	92725	89	+	.	Gene nad4 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	93902	94062	161	+	.	Gene nad2 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	94063	96615	2553	+	.	Gene nad2 ; Note number 3 ; COLOR green ; type intron
+Vigna	GenBank	CDS	96616	97187	572	+	.	Gene nad2 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	97188	98664	1477	+	.	Gene nad2 ; Note number 4 ; COLOR green ; type intron
+Vigna	GenBank	CDS	98665	98853	189	+	.	Gene nad2 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	111345	111569	225	-	.	Gene atp9-1 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	116224	117439	1216	-	.	Gene nad5 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	117440	118312	873	-	.	Gene nad5 ; Note number 1 ; COLOR green ; type intron
+Vigna	GenBank	CDS	118313	118542	230	-	.	Gene nad5 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	118742	119365	624	-	.	Gene rps1 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	123134	123249	116	-	.	Gene rrn5 ; COLOR red ; type exon
+Vigna	GenBank	CDS	123416	125413	1998	-	.	Gene rrnS ; COLOR red ; type exon
+Vigna	GenBank	CDS	127177	127250	74	-	.	Gene trnW-cp ; COLOR red ; type exon
+Vigna	GenBank	CDS	141130	142311	1182	-	.	Gene cob ; COLOR blue ; type exon
+Vigna	GenBank	CDS	143206	143508	303	-	.	Gene rps14 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	143512	144069	558	-	.	Gene rpl5 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	148951	149024	74	-	.	Gene trnfM-1 ; COLOR red ; type exon
+Vigna	GenBank	CDS	149430	152573	3144	-	.	Gene rrnL ; COLOR red ; type exon
+Vigna	GenBank	CDS	161703	161774	72	+	.	Gene trnfM-2 ; COLOR red ; type exon
+Vigna	GenBank	CDS	164234	164305	72	+	.	Gene trnN-cp ; COLOR red ; type exon
+Vigna	GenBank	CDS	164684	164766	83	+	.	Gene trnY-GTA ; COLOR red ; type exon
+Vigna	GenBank	cplast	169146	169452	307	+	.	Gene chloroplast-derived DNA ; COLOR green4
+Vigna	GenBank	CDS	185448	185521	74	+	.	Gene trnF-GAA ; COLOR red ; type exon
+Vigna	GenBank	CDS	185780	185854	75	+	.	Gene trnP-TGG ; COLOR red ; type exon
+Vigna	GenBank	CDS	192273	192664	392	-	.	Gene nad2 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	192665	193911	1247	-	.	Gene nad2 ; Note number 1 ; COLOR green ; type intron
+Vigna	GenBank	CDS	193912	194064	153	-	.	Gene nad2 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	209628	210248	621	+	.	Gene ccmB ; COLOR blue ; type exon
+Vigna	GenBank	CDS	210936	211322	387	+	.	Gene nad1 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	214657	215274	618	+	.	Gene nad6 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	231376	232101	726	-	.	Gene atp6 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	234173	234745	573	-	.	Gene nad9 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	243310	243382	73	+	.	Gene trnK-TTT ; COLOR red ; type exon
+Vigna	GenBank	CDS	257554	258594	1041	-	.	Gene rps4 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	274499	274571	73	+	.	Gene trnC-GCA-1 ; COLOR red ; type exon
+Vigna	GenBank	CDS	276304	276377	74	-	.	Gene trnH-cp ; COLOR red ; type exon
+Vigna	GenBank	CDS	287687	288427	741	+	.	Gene ccmC ; COLOR blue ; type exon
+Vigna	GenBank	CDS	296999	297070	72	-	.	Gene trnQ-TTG ; COLOR red ; type exon
+Vigna	GenBank	CDS	300851	300922	72	-	.	Gene trnG-GCC ; COLOR red ; type exon
+Vigna	GenBank	CDS	312130	313866	1737	+	.	Gene ccmFn ; COLOR blue ; type exon
+Vigna	GenBank	CDS	323339	323497	159	-	.	Gene nad5 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	323498	324417	920	-	.	Gene nad5 ; Note number 2 ; COLOR green ; type intron
+Vigna	GenBank	CDS	324418	324812	395	-	.	Gene nad5 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	327461	327482	22	-	.	Gene nad5 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	331831	333357	1527	-	.	Gene atp1 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	335626	336003	378	-	.	Gene rps12 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	336048	336404	357	-	.	Gene nad3 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	336627	337127	501	-	.	Gene atp8 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	343157	343381	225	+	.	Gene atp9-2 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	343635	343777	143	+	.	Gene nad7 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	343778	344671	894	+	.	Gene nad7 ; Note number 1 ; COLOR green ; type intron
+Vigna	GenBank	CDS	344672	344740	69	+	.	Gene nad7 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	344741	346078	1338	+	.	Gene nad7 ; Note number 2 ; COLOR green ; type intron
+Vigna	GenBank	CDS	346079	346545	467	+	.	Gene nad7 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	346546	347606	1061	+	.	Gene nad7 ; Note number 3 ; COLOR green ; type intron
+Vigna	GenBank	CDS	347607	347850	244	+	.	Gene nad7 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	347851	349863	2013	+	.	Gene nad7 ; Note number 4 ; COLOR green ; type intron
+Vigna	GenBank	CDS	349864	350125	262	+	.	Gene nad7 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	360790	360860	71	+	.	Gene trnC-GCA-2 ; COLOR red ; type exon
+Vigna	GenBank	misc_feature	367836	368259	424	-	.	Gene sdh4 ; COLOR black
+Vigna	GenBank	CDS	368187	368984	798	-	.	Gene cox3 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	395639	395941	303	+	.	Gene nad4L ; COLOR blue ; type exon
+Vigna	GenBank	CDS	396137	396730	594	+	.	Gene atp4 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	397904	398153	250	+	.	Gene rps10 ; COLOR blue ; type exon
+Vigna	GenBank	CDS	398154	400943	2790	+	.	Gene rps10 ; COLOR green ; type intron
+Vigna	GenBank	CDS	400944	401056	113	+	.	Gene rps10 ; COLOR blue ; type exon
