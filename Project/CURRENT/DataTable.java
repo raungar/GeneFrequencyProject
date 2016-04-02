@@ -6,28 +6,28 @@
 
 class DataTable
 {
-	public int gene_num; //number of genes at location in array
-	public int location;
+	public int y; //number of genes at location in array
+	public int x;
 
-   public DataTable(int location, int gene_num) {
-       this.gene_num = gene_num;
-       this.location = location;
+   public DataTable(int x, int y) {
+       this.y = y;
+       this.x = x;
    }
 
-	public int getGeneNum() {
-	    return gene_num;
+	public int getY() {
+	    return y;
 	}
 
-	public void setGeneNum(int gene_num) {
-	    this.gene_num = gene_num;
+	public void setY(int y) {
+	    this.y = y;
 	}
 
-	public int getLocation() {
-	    return location;
+	public int getX() {
+	    return x;
 	}
 
-	public void setLocation(int location) {
-	    this.location = location; 
+	public void setX(int x) {
+	    this.x = x; 
 	}
 
 }
