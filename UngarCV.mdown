@@ -1,0 +1,98 @@
+## **RACHEL UNGAR**
+#### 2885 Howard Nickell Rd Fayetteville AR 72704
+####  P: 479-790-8167  E: <raungar@uark.edu>
+___
+
+#### **Education**
+##### University of Arkansas
+|||
+|-----------|:---|
+|Major|Bachelor of Science in Biology|
+|Minors| Mathematics and Computer Science|
+|Colleges|Fulbright College of Arts and Science and Honors College|
+|Expected Graduation|Spring 2018|
+|Cumulative GPA| 3.95|
+
+#### Organizations		
+##### Phi Sigma Rho
+_August 2014 – Present_
+-	A social and professional sorority for women in STEM fields
+-	Historian (January 2015 – December 2015)
+-	Treasurer (January 2016 – Present)
+##### Distinguished Lectures Committee
+_August 2015 - Present_
+-	Student Poll Chair
+-	Collect and analyze data on student preferences 
+##### Hillel Student Association
+_August 2014 - Present_
+-	Vice President (August 2015 - Present)
+-	Organize and create programming to establish a Jewish community on a predominately Christian campus
+##### Students for a Free Tibet
+_July 2015 - Present_
+-	Active member in spreading awareness of Tibetan culture and oppression
+
+#### Service
+##### Fayetteville Parks and Recreation
+_Fall 2015_
+-	Soccer coach for a U7 boys team.
+##### Honors College Ambassador
+_September 2014 – Present_
+-	Help with new student recruitment
+-	Volunteer for Honors College programming
+##### Note Taker
+_Spring 2015, Spring 2016_
+-	Provide notes for the Center for Educational Access to help students with disabilities have better access to a good education.
+##### Relay for Life 
+_Spring 2015_
+-	Team Leader for Phi Sigma Rho and University of Arkansas Honors College 
+-	Organized activities and recruited people to help raise money for the American Cancer Society
+##### Conversation Club 
+_Spring 2016_
+-	Conversation Club Leader for the International Retention Program
+-	Talk with International Students weekly to facilitate cross-cultural conversation and to provide an American student contact for retention
+#####	Tibetans in Exile Today Service Learning 
+_Summer 2015_
+-	A study abroad oral history project to preserve the stories of a people whose culture is being actively erased and rewritten
+-	Interviewed and helped with the video recordings
+##### Celebrating Discovery	
+_Fall 2014_
+-	An Honors College program where students present their research to high school students to show research opportunities at universities.
+ 
+#### Honors and Awards	
+##### Sturgis Fellowship
+-	Awarded annually to four incoming freshman deemed to have the most potential in the Fulbright College of Arts and Sciences 
+##### Governor’s Distinguished Scholar
+-	Awarded to the top students in Arkansas
+##### Chancellor’s List and Dean’s List
+_Fall 2014, Spring 2015_
+-	Honor Roll for high achieving students at the University of Arkansas
+
+#### General Skills			
+##### Programming
+-	Fluent in C++
+-	Fluent in Java
+-	Proficient in HTML
+-	Comfortable using Command Line
+-	Proficient with Markdown
+##### Laboratory Skills
+-	Familiar with various databases such as STRING, PubMed, UniProt, BioCyc, and KEGG
+-	Proficient using BLAST
+-	Familiar with MySQL
+-	Gel Electropheresis 
+-	Plasmid/DNA extraction
+##### Research in Dr. Ravi Barabote’s laboratory
+-	Collected data to analyze the effect of the distance between the 16S rRNA and the origin of replication on doubling time across various bacteria
+-	Analyzing the reason behind why certain genes were highly upregulated or downregulated in E. coli when growing in the presence of grapheme
+-	(Current) Determining and predicting genes in Acidothermus Cellulolyticus using BLAST
+
+#### Relevant Coursework
+|||
+|-----------|:---|
+|Programming Foundations I|Programming Foundations II |
+|Programming Paradigms\*|Practical Programming for Biologists\*|
+|Honors Principles of Biology (with lab)| Cell Biology (with lab)|
+|Genetics\*|Honors Chemistry I and II (with labs)|
+|Honors Organic Chemistry I (with lab)|Organic Chemistry II\*|
+|Honors Calculus III|Differential Equations|
+|Discrete Mathematics|(\*currently enrolled)|
+	
