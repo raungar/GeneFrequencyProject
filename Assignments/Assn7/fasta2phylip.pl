@@ -93,7 +93,7 @@ while ($line = <FASTA>)
 }
 
 
-
+open(STDOUT, '>', "atp2.phy");
 for( $i = 0; $i < @name; $i++)
 {
 	$substring = $seq[i];
@@ -119,6 +119,7 @@ for ( $i = 0; $i < @name; $i++)
 #print $secondnum , " " , $firstnum , " " , "\n";
 #close FASTA filę
 close FASTA;
+
 
 #print the phylip format
 #print numbers 
