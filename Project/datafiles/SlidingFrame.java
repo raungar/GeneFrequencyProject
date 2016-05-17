@@ -22,6 +22,7 @@ class SlidingFrame
 	int genes; //this is the actual variable tellign the number of genes
 	Random rand;
 	Scanner reader;
+	ReadFile read_file;
 
 	int array_num = 0;
 
@@ -42,6 +43,8 @@ class SlidingFrame
 		this.n_runs = 0;
 		this.rand = new Random();
 		this.reader = new Scanner(System.in); //read in user input
+		read_file = new ReadFile();
+
 	}
 
 	//--------------------------------------------------------------
@@ -156,9 +159,7 @@ class SlidingFrame
 	{
 
 		genes = 0;
-		ReadFile read_file = new ReadFile();
-		read_file.Read_GFF();
-		System.out.println("GENE TABLE SIZE: " + read_file.geneTable.size() + "\n");
+		//System.out.println("GENE TABLE SIZE: " + read_file.geneTable.size() + "\n");
 		for (int j = 0; j < read_file.geneTable.size(); j++)
 		{
 			if (read_file.geneTable.get(j).start <= frame_right && read_file.geneTable.get(j).start >= frame_left)
@@ -229,14 +230,16 @@ class SlidingFrame
 	//--------------------------------------------------------------
 	public static void main(String[] args)
 	{
-		ReadFile read_me = new ReadFile();
 		SlidingFrame frame = new  SlidingFrame();
+
 
 		Scanner reader = new Scanner(System.in); //read in user input
 
-		if (read_me.Read_GFF() == true) //read the file
+		//ReadFile readme = new ReadFile();
+
+		if (frame.read_file.ReadTxt() == true) //read the file
 		{
-			int length = read_me.my_size();
+			int length = frame.read_file.my_size();
 
 			int choice = -1;
 
@@ -257,7 +260,7 @@ class SlidingFrame
 
 				if (choice == 1)
 				{
-					read_me.print();
+					frame.read_file.print();
 					System.out.println("\n\n {To see the menu again press four}");
 				}
 				

@@ -2,6 +2,9 @@
 import java.util.*;
 import java.util.Scanner;
 import java.io.*;
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
 
 class ReadFile
 {
@@ -15,13 +18,14 @@ class ReadFile
 	float log2fluor;
 	GeneInfo g = new GeneInfo(locus, beginning, ending, log2fluor);
 	int my_size = 0;
+	ArrayList<GeneInfo> geneTable;
 
-	ArrayList<GeneInfo> geneTable = new ArrayList<GeneInfo>();
 
 	ReadFile()
 	{	
-		fileName = "sex_chrom.txt";
+		fileName = "new_annotation.txt";
 		line_count = 0;
+		geneTable = new ArrayList<GeneInfo>();
 		
 	}
 
@@ -38,7 +42,9 @@ class ReadFile
 
 		try 
 		{	         
+			//Tree tree = new Tree();
 
+		
 		    BufferedReader read_in = new BufferedReader(new FileReader(fileName));
 		    String extension = fileName.substring(fileName.length() -3);
 			//if( extension == ".txt")
@@ -79,7 +85,7 @@ class ReadFile
 
 
 		            //Add this line of data to array
-		            geneTable.add(new GeneInfo(locus,beginning, beginning +1, log2fluor));
+		            geneTable.add(beginning, new GeneInfo(locus,beginning, beginning +1, log2fluor));
 		           // my_size++;
 		        }
 
@@ -119,6 +125,7 @@ class ReadFile
 
 		try 
 		{
+
 			//Hard coding important data for watermelon.faa SPECIFICALLY!
 	         BufferedReader read_in = new BufferedReader(new FileReader(fileName));
 	         String line;
